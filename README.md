@@ -20,8 +20,6 @@ This repository includes the following files:
 *   **Data Visualization:** Creating a professional dashboard and presentation deck to communicate financial insights.
 
 ## 📊 Key Insights & Takeaways
-*(Ganti teks di dalam tanda kurung siku `[...]` dengan hasil analisis aktual Anda)*
-
 *   **Revenue Diversification:** While iPhone sales remain the anchor, Apple's **Services segment** continues to show strong double-digit growth, reaching **$[X] Billion** and improving overall gross margins to **[X]%**.
 *   **Cash Flow & Capital Return:** Apple generated an impressive **$[X] Billion** in Free Cash Flow (FCF), continuing its aggressive share buyback program and dividend payments, returning over **$[X] Billion** to shareholders.
 *   **Financial Health:** The company maintains a highly efficient capital structure with a return on equity (ROE) of **[X]%** and a robust liquidity position.
